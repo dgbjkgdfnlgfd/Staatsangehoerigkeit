@@ -1,2 +1,3 @@
 # Staatsangehoerigkeit
-Analyse über "Teilaspekt" von Staatsangehörigkeit in dt. Bundestagsdebatten von XXXX.
+Eine Analyse der Redebeiträge von deutschen Bundestagsdebatten über Änderungen des Staatsangehörigkeitsgesetzes in den Jahren 2014, 2019 und 2021
+
